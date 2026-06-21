@@ -56,5 +56,3 @@ This project helped me practice and understand:
 - Abdullah Majeed
 - Syed Turrab Haider
 - Syed Yousaf Rasheed
-
----

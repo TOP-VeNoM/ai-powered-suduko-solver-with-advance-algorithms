@@ -22,7 +22,7 @@ sys.setrecursionlimit(2500)
 class CSPSolver:
     """
     Solves Sudoku using Constraint Satisfaction Problem techniques.
-    It reduces the search space using AC-3 before attempting to solve.
+    It reduces the search space using AC-3 before attempting to solve the puzzle with backtracking.
     """
 
     def __init__(self, board):
